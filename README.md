@@ -1,6 +1,6 @@
-# Zmuck
+# Zmuck - Vim
 
-## A Vim theme based on Monokai
+## A theme based on Monokai for the best editor there is
 
 ### Installation
 
@@ -13,3 +13,4 @@ Plug 'ptrkrlsrd/vim-zmuck'
 ## Preview
 
 ![./screenshot.png](./screenshot.png)
+ 
