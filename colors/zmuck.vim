@@ -51,7 +51,7 @@ highlight Function ctermfg=231 ctermbg=NONE cterm=bold guifg=#f8f8f2 guibg=NONE 
 highlight Identifier ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=NONE
 highlight Keyword ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 highlight Label ctermfg=186 ctermbg=NONE cterm=NONE guifg=#FFF595 guibg=NONE gui=NONE
-highlight NonText ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#000000 guibg=NONE gui=NONE
+highlight NonText ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#000000 guibg=bg gui=NONE
 highlight Number ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 highlight Operator ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 highlight PreProc ctermfg=197 ctermbg=NONE cterm=bold guifg=#f92672 guibg=NONE gui=bold
