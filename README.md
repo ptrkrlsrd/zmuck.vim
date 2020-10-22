@@ -1,6 +1,6 @@
 # Zmuck - Vim
 
-## A theme based on Monokai for the best editor there is
+## A Vim theme based on Monokai
 
 ### Installation
 
