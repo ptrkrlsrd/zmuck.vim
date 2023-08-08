@@ -176,3 +176,46 @@ highlight NERDTreeDirSlash ctermfg=231 ctermbg=0 cterm=bold guifg=#ffffff guibg=
 highlight NERDTreeLink ctermfg=231 ctermbg=0 cterm=bold guifg=#ffffff guibg=NONE gui=NONE
 highlight NERDTreeDir ctermfg=231 ctermbg=0 cterm=bold guifg=#ffffff guibg=NONE gui=NONE
 highlight NERDTreeLinkDir ctermfg=231 ctermbg=0 cterm=bold guifg=#ffffff guibg=NONE gui=NONE
+
+
+" Basics
+highlight! link TSAnnotation     Special
+highlight! link TSAttribute      Normal
+highlight! link TSBoolean        Boolean
+highlight! link TSCharacter      Character
+highlight! link TSComment        Comment
+highlight! link TSConditional    Conditional
+highlight! link TSConstant       Constant
+highlight! link TSConstructor    Function
+highlight! link TSError          ErrorMsg
+highlight! link TSException      rubyException
+highlight! link TSField          Identifier
+highlight! link TSFloat          Float
+highlight! link TSFunction       Function
+highlight! link TSInclude        rubyInclude
+highlight! link TSKeyword        Keyword
+highlight! link TSLabel          Label
+highlight! link TSMethod         Function
+highlight! link TSNamespace      PreProc
+highlight! link TSNone           Normal
+highlight! link TSNumber         Number
+highlight! link TSOperator       Operator
+highlight! link TSParameter      Identifier
+highlight! link TSProperty       Identifier
+highlight! link TSPunctDelimiter Operator
+highlight! link TSPunctBracket   Operator
+highlight! link TSPunctSpecial   Operator
+highlight! link TSRepeat         Repeat
+highlight! link TSString         String
+highlight! link TSStringRegex    rubyRegexp
+highlight! link TSSymbol         rubySymbol
+highlight! link TSTag            Tag
+highlight! link TSTagDelimiter   htmlTag
+highlight! link TSText           Normal
+highlight! link TSStrong         Bold
+highlight! link TSEmphasis       Italic
+highlight! link TSUnderline      Underlined
+highlight! link TSStrike         Todo
+highlight! link TSTitle          Title
+highlight! link TSLiteral        String
+highlight! link TSURI            Underlined
