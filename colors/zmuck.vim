@@ -67,6 +67,8 @@ highlight Type ctermfg=150 ctermbg=NONE cterm=NONE guifg=#B8FFB0 guibg=NONE gui=
 highlight Repeat ctermfg=150 ctermbg=NONE cterm=NONE guifg=#B8FFB0 guibg=NONE gui=NONE
 highlight Underlined ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 
+highlight NotifyBackground ctermfg=231 ctermbg=NONE cterm=NONE guifg=#f8f8f2 guibg=NONE gui=NONE
+
 " Treesitter
 highlight! link TSAnnotation     Special
 highlight! link TSAttribute      Normal
